@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Syed Wasay Ali Shah**
+**Syed Wasia Ali Shah** BSCS student
 - GitHub: [@Wasay-3435](https://github.com/Wasay-3435)
 
 ## 🙏 Acknowledgments
